@@ -558,7 +558,12 @@ class CBP_SMF_Solver():
 
         
                 
-
+'''
+############################################################
+#####             /* RUN ON BRCA Data */                 ###
+#####             /* More details see BRCA_example */    ###
+############################################################
+'''
 if __name__=='__main__':
     
     X1_test_df=pd.read_csv('E:\\python code\\Article\\data\\final2_genematrix.csv',index_col='Keys')
