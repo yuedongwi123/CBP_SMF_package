@@ -20,19 +20,19 @@ __Results:__ We evaluate CBP-SMF on breast cancer, classify unlabeled samples in
 * [__equations_v044__](./equations_v044.ipynb) This document contains equations of the algorithm.  // to_write
 ## Figures
 
-| ![Fig. 1](./images/algorithm.PNG) |
+| ![Fig. 1](https://github.com/yuedongwi123/CBP_SMF_package/blob/master/images/algorithm.png) |
 | --------------------------------- |
 | **Fig 1. CBP-SMF algorithm.**  |
 
 
 
-| ![Fig. 2](./images/Figure2_survival_4.1.PNG)                 |
+| ![Fig. 2](https://github.com/yuedongwi123/CBP_SMF_package/blob/master/images/Figure2_survival_4.1.png)                 |
 | ------------------------------------------------------------ |
 | **Fig 2. Classify samples into subgroup and implement KM survival analysis.** (A) KM survival curve for labeled samples. (B) KM survival analysis for unlabeled patients which are classified using CBP-SMF on mRNA expression and miRNA expression data. (C) KM survival analysis for unlabeled patients which are classified using CBP-SMF only on mRNA expression.  (D) KM survival analysis for unlabeled patients which are classified on mRNA expression and miRNA expression data without graph embedding regularization. |
 
 
 
-| ![Fig. 3](./images/LB_Basal_module.PNG)                      |
+| ![Fig. 3](https://github.com/yuedongwi123/CBP_SMF_package/blob/master/images/LB_Basal_module.png)                      |
 | ------------------------------------------------------------ |
 | **Fig 3. Complex Biological Processes that represent different samle groups.** We mapped the genes and miRNAs obtained from Luminal’s module and Basal-like’s module onto an integrated gene-regulation network.The network was obtained through integrating three databases including Reactom,KEGG and Nci Pathway Interaction Database. And the interactions between genes and miRNAs were obtained from miRTarBase. |
 
