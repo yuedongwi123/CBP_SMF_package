@@ -2,7 +2,7 @@
 """
 Created on Thu Apr 11 17:00:40 2019
 
-@author: wang
+@author: yuedong
 """
 
 import cvxpy as cvx
