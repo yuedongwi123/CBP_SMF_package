@@ -11,7 +11,7 @@ __Results:__ We evaluate CBP-SMF on breast cancer, classify unlabeled samples in
 
 ## The package
 
-* [__CBP_SMF__](./CBP_SMF.py) This software package contains all the functions of CBP-SMF.  
+* [__CBP_SMF__](https://github.com/yuedongwi123/CBP_SMF_package/blob/master/CBP_SMF.py) This software package contains all the functions of CBP-SMF.  
 ## Analysis scripts
 
 * [__BRCA_example__](./BRCA_example.ipynb) Run the CBP_SMF package on BRCA's mRNA data and miRNA data.   
